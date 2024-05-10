@@ -40,6 +40,7 @@ public class ListImplementaion {
 				eachcountry.click();
 				return;
 			}
+			//boolean value = expectedcountry.equalsIgnoreCase(name) ? true:false;
 		}
 	}
 
